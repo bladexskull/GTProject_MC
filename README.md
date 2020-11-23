@@ -1,2 +1,4 @@
-# GTProject_MC
-GT project on Centrality
+# GTProject
+Made by Rahul and Manish
+Topic: Centrality Measure
+
